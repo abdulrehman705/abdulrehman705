@@ -3,7 +3,7 @@
 - 🔭 Frontend developer who mostly works with different technologies.
 - 💻 specialize in building dynamic and responsive user interfaces.
 - 💻 Always excited to work on Javascript, Nextjs, Reactjs, Typescript, React native, storybook, nodejs, express and with tools github, VS Code.
-- 👩‍ Currently working as a Software Engineer at Devsinc
+- 👩‍ Currently working as a Software Engineer at Enigamtix
 - 📝 Bachelors in Software Engineering
 
 ## 🔭 What I've learned and currently improving
@@ -23,9 +23,6 @@
 </div>
 
 ## 📫 Say Hi
-<a href="mailto:iqrakhalidfqw@gmail.com">
-<img  alt="iqrakhalidfqw@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
-</a>
- <a href="https://www.linkedin.com/in/iqra-khalid-386291199">
-<img alt="Iqra Khalid| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:akabdulrehman159@gmail.com">
+<img  alt="akabdulrehman159@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 </a>
