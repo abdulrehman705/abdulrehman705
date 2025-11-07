@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />
    <img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React JS logo" title="React JS" height="30" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="30" />
-  <img src="https://img.shields.io/badge/React%20Native-v0.74-blue?logo=react" alt="React Native logo" title="React Native" height="30" />
+  <img src="https://img.shields.io/badge/React%20Native-v0.80-blue?logo=react" alt="React Native logo" title="React Native" height="30" />
   <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="30" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescript logo" title="typescript" height="30" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white" alt="React Query logo" title="React Query" height="30" />
