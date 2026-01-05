@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="30" />
 <img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" height="30" />
 <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/React%20Native-v0.80-blue?logo=react" height="30" />
+<img src="https://img.shields.io/badge/React%20Native-v0.83-blue?logo=react" height="30" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white" height="30" />
