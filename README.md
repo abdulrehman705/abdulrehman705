@@ -35,6 +35,8 @@
 <img src="https://img.shields.io/badge/ClickUp-7C3AED?logo=clickup&logoColor=white" alt="ClickUp logo" title="ClickUp" height="30" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
 <img src="https://img.shields.io/badge/Cursor-282C34?logo=cursor&logoColor=7C7CFF" alt="Cursor logo" title="Cursor" height="30" />
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" height="30" />
+<img src="https://img.shields.io/badge/DBeaver-282C34?logo=dbeaver&logoColor=F7DF1E" height="30" />
 </div>
 
 ## 📫 Say Hi
