@@ -5,10 +5,10 @@
 
 ### Here is a bit about me 👋
 
-- 🔭 Frontend developer who mostly works with different technologies.
+- 🔭 Full Stack Developer who mostly works with different technologies.
 - 💻 specialize in building dynamic and responsive user interfaces.
-- 💻 Always excited to work on Javascript, Nextjs, Reactjs, Typescript, React native, storybook, nodejs, express and with tools github, VS Code.
-- 👩‍ Currently working as a Software Engineer at Enigamtix
+- 💻 Always excited to work on Javascript, Nextjs, Reactjs, Typescript, React Native, Storybook, Nodejs, Express, Postgress, Prisma, Supabase and with tools github, VS Code, Cursor, Docker, Dbeaver.
+- 👩‍ Currently working as a Senior Software Engineer at Tallysis(Pvt).Ltd
 - 📝 Bachelors in Software Engineering
 
 ## 🔭 What I've learned and currently improving
