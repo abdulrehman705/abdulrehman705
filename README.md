@@ -5,8 +5,10 @@
 
 ### Here is a bit about me 👋
 
-- 🔭 Full Stack Developer who mostly works with different technologies.
-- 💻 specialize in building dynamic and responsive user interfaces.
+- 🔭 **Senior Software Engineer** with experience building scalable, production-ready web and mobile applications  
+- 💻 Specialized in crafting **dynamic and responsive user interfaces** along with robust backend systems  
+- 🚀 Passionate about working across the full stack using modern **JavaScript ecosystems**  
+- 🧠 Focused on clean architecture, performance optimization, and maintainable code
 - 💻 Always excited to work on Javascript, Nextjs, Reactjs, Typescript, React Native, Storybook, Nodejs, Express, Postgress, Prisma, Supabase and with tools github, VS Code, Cursor, Docker, Dbeaver.
 - 👩‍ Currently working as a Senior Software Engineer at Tallysis(Pvt).Ltd
 - 📝 Bachelors in Software Engineering
