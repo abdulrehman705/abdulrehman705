@@ -41,7 +41,6 @@
 <img src="https://img.shields.io/badge/DBeaver-282C34?logo=dbeaver&logoColor=F7DF1E" height="30" />
 </div>
 
-
 ## 📫 Say Hi
 <a href="mailto:akabdulrehman159@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
