@@ -40,7 +40,6 @@
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" height="30" />
 <img src="https://img.shields.io/badge/DBeaver-282C34?logo=dbeaver&logoColor=F7DF1E" height="30" />
 </div>
-
 ## 📫 Say Hi
 <a href="mailto:akabdulrehman159@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
@@ -48,6 +47,5 @@
 <a href="https://www.linkedin.com/in/abdulrehman705" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 ## 📊 GitHub Stats
 [![My Streak Stats](https://nirzak-streak-stats.vercel.app/?user=abdulrehman705&theme=dracula&background=000000)](https://github.com/nirzak/github-streak-stats-personal)
