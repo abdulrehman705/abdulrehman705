@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Cursor-282C34?logo=cursor&logoColor=7C7CFF" alt="Cursor logo" title="Cursor" height="30" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" height="30" />
 <img src="https://img.shields.io/badge/DBeaver-282C34?logo=dbeaver&logoColor=F7DF1E" height="30" />
+  
 </div>
 
 ## 📫 Say Hi
