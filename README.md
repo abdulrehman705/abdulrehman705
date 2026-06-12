@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab logo" title="GitLab" height="30" />
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Redux logo" title="Redux" height="30" />
+  
 <img src="https://img.shields.io/badge/ClickUp-7C3AED?logo=clickup&logoColor=white" alt="ClickUp logo" title="ClickUp" height="30" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
 <img src="https://img.shields.io/badge/Cursor-282C34?logo=cursor&logoColor=7C7CFF" alt="Cursor logo" title="Cursor" height="30" />
