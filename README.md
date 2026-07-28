@@ -53,4 +53,4 @@
 </a>
 
 ## 📊 GitHub Stats
-[![My Streak Stats](https://nirzak-streak-stats.vercel.app/?user=abdulrehman705&theme=dracula&background=000000)](https://github.com/nirzak/github-streak-stats-personal)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrehman705&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
