@@ -53,5 +53,4 @@
 </a>
 
 ## 📊 GitHub Stats
-[[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrehman705&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-](https://streak-stats.demolab.com/?user=abdulrehman705)
+[[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrehman705&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)](https://streak-stats.demolab.com/?user=abdulrehman705)
